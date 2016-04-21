@@ -1,0 +1,8 @@
+requests
+spotipy
+argparse
+soundcloud
+six
+apiclient
+urllib3
+urlencode

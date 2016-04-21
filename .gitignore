@@ -1,0 +1,4 @@
+private_conf.py
+venv
+.cache*
+__pycache__
